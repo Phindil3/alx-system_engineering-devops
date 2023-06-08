@@ -1,1 +1,1 @@
-Shell Basics Readdme
+shell permossions
