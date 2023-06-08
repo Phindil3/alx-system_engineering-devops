@@ -1,1 +1,1 @@
-shell permossions
+shell permission
