@@ -1,2 +1,1 @@
-vi README.md
-#shell permissions
+shell permission echo shell permission
