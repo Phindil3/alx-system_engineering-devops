@@ -1,1 +1,1 @@
-shell permission echo shell permission
+shell permission
